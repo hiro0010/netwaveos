@@ -1,15 +1,16 @@
-# 💻 NetwaveOS
-
 <div align="center">
 
-**Sistema operacional Linux próprio** — base CachyOS / Arch
-
-[![Owner](https://img.shields.io/badge/Owner-hiro0010-FFFFFF?style=flat-square&logo=github&logoColor=white&background=0D1117)](https://github.com/hiro0010)
-[![Netwave](https://img.shields.io/badge/Netwave-Project-FFFFFF?style=flat-square&logo=googlechrome&logoColor=white&background=0D1117)](https://netwave.cloud)
+<img src="assets/header.svg" alt="NETWAVEOS" width="100%" />
 
 </div>
 
----
+<div align="center">
+
+[![Owner](https://img.shields.io/badge/Owner-hiro0010-B00000?style=flat-square&labelColor=0D0D0D&logo=github&logoColor=white)](https://github.com/hiro0010/netwaveos) [![Netwave](https://img.shields.io/badge/Netwave-Project-B00000?style=flat-square&labelColor=B00000&logo=googlechrome&logoColor=white)](https://github.com/hiro0010/netwaveos) [![Status](https://img.shields.io/badge/Status-EM%20DESENVOLVIMENTO-B00000?style=flat-square&labelColor=0D0D0D&logo=gitlab&logoColor=white)](https://github.com/hiro0010/netwaveos) [![Site](https://img.shields.io/badge/Site-netwave.cloud-B00000?style=flat-square&labelColor=0D0D0D&logo=googlechrome&logoColor=white)](https://github.com/hiro0010/netwaveos)
+
+</div>
+
+<img src="assets/divider.svg" alt="" width="100%" />
 
 ## O que é
 
@@ -98,10 +99,12 @@ identidade, o dashboard e a Yuna read-only estão criados. Faltam o boot
 completo validado, assinatura GPG e a consolidação da source em repositório
 próprio.
 
----
+
+<img src="assets/divider.svg" alt="" width="100%" />
 
 <div align="center">
 
-<sub>Parte da [Netwave](https://github.com/hiro0010/netwave) · Owner: [Hiro](https://github.com/hiro0010)</sub>
+<sub>Parte da <a href="https://github.com/hiro0010/netwave">Netwave</a>
+&middot; Owner: <a href="https://github.com/hiro0010">Hiro</a></sub>
 
 </div>
